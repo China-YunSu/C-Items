@@ -1,0 +1,6 @@
+< City:  西安  6km-北京  5km-福州  1km-上海 >
+< City:  北京  6km-西安  2km-上海  3km-广州 >
+< City:  上海  1km-西安  2km-北京  3km-福州  4km-杭州  5km-广州 >
+< City:  福州  5km-西安  3km-上海  2km-杭州 >
+< City:  广州  3km-北京  5km-上海  6km-杭州 >
+< City:  杭州  6km-广州  4km-上海  2km-福州 >

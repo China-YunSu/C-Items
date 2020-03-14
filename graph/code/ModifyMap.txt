@@ -1,0 +1,6 @@
+< City:  武功:  1km-上海  5km-福州  6km-北京 >
+< City:  北京:  3km-广州  2km-上海  6km-武功 >
+< City:  上海:  5km-广州  4km-杭州  3km-福州  2km-北京  1km-武功 >
+< City:  杭州:  2km-福州  4km-上海  6km-广州 >
+< City:  福州:  2km-杭州  3km-上海  5km-武功 >
+< City:  广州:  6km-杭州  5km-上海  3km-北京 >

@@ -1,0 +1,8 @@
+< CityCount : 3 >
+
+< City:西安 北京 上海 >
+
+< ConnectPath >:
+< 西安 : 北京-10km 上海-10km >
+< 北京 : 西安-30km 上海-10km >
+< 上海 : 北京-10km 西安-30km >
